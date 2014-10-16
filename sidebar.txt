@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aas:home|Door43 (aas)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aas|d43-aas repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aas/archive/master.zip|d43-aas.zip]]
+
+**Recent Changes**
+{{changes>ns = aas}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aas|Ethnologue data]]
+
